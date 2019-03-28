@@ -15,6 +15,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scenarios", "Scenarios", "{
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogComment", "Scenarios\BlogComment\BlogComment.csproj", "{C8E517D0-AEE9-439C-BA9D-76953087F49D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacetedSearch", "FacetedSearch\FacetedSearch.csproj", "{654D940C-7BF2-4375-B110-FA2DFFA16AF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,12 +43,17 @@ Global
 		{C8E517D0-AEE9-439C-BA9D-76953087F49D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8E517D0-AEE9-439C-BA9D-76953087F49D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8E517D0-AEE9-439C-BA9D-76953087F49D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654D940C-7BF2-4375-B110-FA2DFFA16AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654D940C-7BF2-4375-B110-FA2DFFA16AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654D940C-7BF2-4375-B110-FA2DFFA16AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654D940C-7BF2-4375-B110-FA2DFFA16AF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{C8E517D0-AEE9-439C-BA9D-76953087F49D} = {28FA38AF-A144-476F-B6D1-79A7532ED2CC}
+		{654D940C-7BF2-4375-B110-FA2DFFA16AF3} = {28FA38AF-A144-476F-B6D1-79A7532ED2CC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D8EB129C-81E9-4C3D-A4A3-DA9092D30CDE}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestingEnvironment.Orchestrator": {
+      "commandName": "Project",
+      "commandLineArgs": "http://localhost:5001"
+    }
+  }
+}

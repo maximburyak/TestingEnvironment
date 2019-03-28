@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FacetedSearch": {
+      "commandName": "Project",
+      "commandLineArgs": "http://localhost:5001"
+    }
+  }
+}
